@@ -185,6 +185,5 @@ namespace LinqDemo
             var data = group.ToList();
         }
 
-
     }
 }
